@@ -1,2 +1,1 @@
-console.log("I like apples");
-console.log("I like pears");
+
