@@ -6,4 +6,4 @@ const printFruit = (arr) => {
   }
 };
 
-printFruit();
+printFruit(fruitArr);
