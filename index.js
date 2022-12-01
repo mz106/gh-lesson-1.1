@@ -1,4 +1,4 @@
-const fruitArr = ["apple", "pear"];
+const fruitArr = ["apple", "pear", "banana", "plum"];
 
 const printFruit = (arr) => {
   for (let i = 0; i < arr.length; i++) {
